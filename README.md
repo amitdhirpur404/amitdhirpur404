@@ -25,6 +25,6 @@ Templates for deployments and environment setups:
 ## 📫 Contact
 Let's work together! You can reach me at:
 - [LinkedIn](https://linkedin.com/in/amit-sharma-160786182)
-- [Email](mailto:amit@example.com)
+- [Email](mailto:amit1986kkr@gmail.com)
 
 Thank you for visiting!
